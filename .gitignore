@@ -2,13 +2,19 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+/Library/
+/Temp/
+/obj/
+/build/
+/builds/
+/Logs/
+/MemoryCaptures/
+/Assets/Ludiq/
+/Assets/Ludiq.Generated/
+/Assets/Clayxels/
+/Assets/ExplosiveLCC/
+/Assets/tripolygon/
+/Assets/PolygonPrototype/
 
 # Never ignore Asset meta data
 !/[Aa]ssets/**/*.meta
